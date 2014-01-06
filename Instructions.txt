@@ -1,0 +1,42 @@
+Ticker
+I. Change Settings
+II. Embed to website
+III. Change Width and Height
+IV. Change Font
+
+I. To edit the Ticker settings, do the following:
+
+1st: Right Click settings.xml file.
+2nd: Select Edit
+3rd: Change the values
+4th: Save the file
+
+II. To embed the swf in a website, use the following code:
+
+<object width="550" height="400">
+<param name="ticker" value="ticker.swf">
+<embed src="ticker.swf" width="200" height="30">
+</embed>
+</object>
+
+Make sure that the width and height correlates to what you have set. See section III to change the width and height.
+
+III. To change the width and height, do the following:
+
+1st: Go to the TickerFLA.fla, right-click on the stage, select Document Properties and change the width and height
+2nd: Save the TickerFLA.fla
+3rd: Change the width and height on the settings.xml file
+4th: Save the settings.xml
+
+Export (Ctrl/Command + ENTER) the FLA and you're done!
+
+If you have embedded the swf to a website, make sure you change the width and height of the HTML embedding code.
+
+IV. To change the font of the ticker, do the following:
+
+1st: Open the TickerFLA.fla
+2nd: Press Ctrl/Command + L (Library)
+3rd: Double click the "number" Movieclip Icon
+4th: Click on the text box
+5th: Select the Properties panel
+6th: Change the "Family" under "Character"

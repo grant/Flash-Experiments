@@ -1,0 +1,58 @@
+﻿<Odometer>
+////////Date///////////////////////////////////////////////////////////////////////////////
+
+	//All values should be according to UTC (http://www.timeanddate.com/worldclock/)
+
+	//starting #
+	<startNumber>10000</startNumber>
+
+	//year of startNumber
+	<startYear>2010</startYear>
+
+	//month of the year (ex. Jan = 1)
+	<startMonth>11</startMonth>
+
+	//days since beginning of month (1-31))
+	<startDay>3</startDay>
+
+	//hours since beginning of day (1-24)
+	<startHour>21</startHour>
+
+	//minutes since beginning of day (0-59)
+	<startMinute>12</startMinute>
+
+	//seconds since beginning of hour (0-59)
+	<startSecond>00</startSecond>
+
+////////Ticker/////////////////////////////////////////////////////////////////////////////
+
+	//Look at instructions.txt to find out how to change ticker width and height
+
+	//speed of increment (in seconds) (up to 3 decimal places) (ex. .01 mean the number increases every .01 second (10 milliseconds))
+	<speed>.01</speed>
+	
+	//speed of switching numbers (.1-1)
+	<switchSpeed>.9</switchSpeed>
+	
+	//number of places (up to 10)
+	<numberOfPlaces>10</numberOfPlaces>
+
+	//include commas (true or false)
+	<commas>true</commas>
+	
+	//if there are commas, the commas' size (1-32) (Shortcut: 0 = auto size)
+	<commaSize>0</commaSize>
+
+	//background color (white) (search "hex color" for more colors) (0x + hex)
+	<bgColor>0xFFFFFF</bgColor>
+
+	//border color (gold) (search "hex color" for more colors) (0x + hex)
+	<borderColor>0xD4A017</borderColor>
+	
+	//border size (in pixels)
+	<borderSize>2</borderSize>
+	
+	//separate numbers with a line (true or false)
+	<separate>false</separate>
+	
+</Odometer>

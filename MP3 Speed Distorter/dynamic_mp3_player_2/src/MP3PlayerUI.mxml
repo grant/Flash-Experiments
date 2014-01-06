@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<local:MP3PlayerUIClass 
+	xmlns:mx="http://www.adobe.com/2006/mxml"
+	xmlns:local="*" 
+	layout="vertical"
+	width="300"
+	height="130"
+	>
+	<mx:Button label="Load MP3 file" id="loadMp3Button" />
+	<mx:Label id="speedLabel" text="Speed" /> 
+	<mx:HSlider id="rangeSlider" minimum="0" maximum="2" value="1" snapInterval="0.05" liveDragging="true"  />
+</local:MP3PlayerUIClass>

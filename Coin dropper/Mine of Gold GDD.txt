@@ -1,0 +1,41 @@
+Game GDD
+Name: Mine of Gold
+By: Grant Timmerman
+Date: 5/9/2010
+
+Main Gameplay:
+The user can create coins at the release of his mouse (LMB). He has his mouse at the top of the screen.In the beginning there is one miner rail/track where mine carts ocasionally come. The user tries to get as many of his coins in the mine cart as he can. The mine cart has a maxmimum capacity.
+
+Between Gameplay:
+At the end of the level (which is based on a short time limit), the user then can upgrade his equiptment using the amount of gold he collected. The upgrade costs increase every time the user buys it.
+
+Upgrade Ideas:
+Amount of gold per second
+Amount of tracks: There are 3 possible tracks in the game. The user starts with one, and the other two cost lots of gold.
+Accuracy of gold drop (no spraying)
+Cart capacity (makes carts visually bigger)
+
+Carts:
+A full cart gives 1.5x bonus (bonus looks like "+5 bonus" and moves slowly up and slow alpha--)
+Once cart leaves through tunnel, 
+
+Other ideas:
+Customize Cart colors (pick 2 colors)
+Special cart (gold in color) that gives 5x gold.
+Have miner animations on the side creating the gold for you to release by clicking
+Other metals/gems such as bronze, silver, saphires, rubies, and diamonds
+Rats that steal gold
+Moles that collect uncollected gold from bottom
+
+Background Ideas:
+Skull
+Ladder
+Rope
+Wires
+Other Mine Stuff
+Pick Axe
+Hammer
+Grey Rocks
+Waves of different types of rock
+Mole holes
+Rat holes
